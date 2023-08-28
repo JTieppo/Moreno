@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/e.tieppo/Documents/Estudos-em-CS/teste/teste.csproj": {}
+    "/Users/e.tieppo/Documents/Estudos-em-CS/Bolo de cenoura/teste.csproj": {}
   },
   "projects": {
-    "/Users/e.tieppo/Documents/Estudos-em-CS/teste/teste.csproj": {
+    "/Users/e.tieppo/Documents/Estudos-em-CS/Bolo de cenoura/teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/e.tieppo/Documents/Estudos-em-CS/teste/teste.csproj",
+        "projectUniqueName": "/Users/e.tieppo/Documents/Estudos-em-CS/Bolo de cenoura/teste.csproj",
         "projectName": "teste",
-        "projectPath": "/Users/e.tieppo/Documents/Estudos-em-CS/teste/teste.csproj",
+        "projectPath": "/Users/e.tieppo/Documents/Estudos-em-CS/Bolo de cenoura/teste.csproj",
         "packagesPath": "/Users/e.tieppo/.nuget/packages/",
-        "outputPath": "/Users/e.tieppo/Documents/Estudos-em-CS/teste/obj/",
+        "outputPath": "/Users/e.tieppo/Documents/Estudos-em-CS/Bolo de cenoura/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/e.tieppo/.nuget/NuGet/NuGet.Config"
