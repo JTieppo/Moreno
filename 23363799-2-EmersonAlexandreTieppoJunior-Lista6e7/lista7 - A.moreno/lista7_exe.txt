@@ -1,0 +1,86 @@
+4) Com base no exercício anterior, calcule a média da turma e armazene na 
+mesma planilha. No final, mostre todas as notas (inclusive a média)
+
+
+5) Ler uma matriz 4x4. Ao final apresentar o total de elementos pares 
+existentes dentro da matriz cuja soma dos endereços (linha+coluna) seja 
+ímpar.
+
+
+6) Solicitar 2 vetores de nomes (de dimensão 8), e posteriormente armazenar 
+em uma matriz (8x2).
+
+
+7) Ler duas matrizes (A e B), com dimensões de 5 linhas e 3 colunas. Construir 
+uma terceira matriz (C), de mesma dimensão, que será formada pela soma 
+dos elementos da matriz A com os elementos da matriz B. Apresentar a 
+matriz C.
+
+
+8) Ler dois vetores (A e B) de 7 elementos. Construir uma matriz C, onde a 
+primeira coluna deverá ser formada pelos elementos do vetor A e a segunda 
+coluna deverá ser formada pelos elementos do vetor B. Apresentar a matriz 
+C.
+
+
+9) Ler 20 elementos para uma matriz qualquer, considerando que ela tenha o
+tamanho de 4 linhas por 5 colunas, em seguida apresentar a matriz em 
+ordem inversa ao da entrada.
+
+
+10)Ler uma matriz A 10x10. Apresentar a somatória dos elementos situados na 
+diagonal principal (posições A[1,1], A[2,2], A[3,3], A[4,4] e assim por diante) 
+da referida matriz. (Claro que não é para efetuar a soma deste modo: SOMA 
+ A[1,1] + A[2,2] + A[3,3] + ... + A[10,10]), ou seja, utilize um laço de 
+repetição
+
+
+11)Ler uma matriz A de duas dimensões com 7 linhas e 7 colunas. Construir 
+uma matriz B de mesma dimensão, sendo que cada elemento da matriz B 
+ 
+ 
+ Algoritmos e Lógica de Programação
+ Professor Alexandre Moreno
+ Página 2
+deverá ser a somatória de cada elemento correspondente da matriz A 
+com o os seus respectivos índices (ou seja, se A[1,2] possui o valor 8, 
+B[1,2] deverá possuir o valor 11, correspondente a 8+1+2), com 
+exceção para os valores situados nos índices ímpares da diagonal 
+principal (B[1,1], B[3,3], B[5,5] , B[7,7]), que deverão possuir um valor 
+sequencial, inicia
+
+
+12)Ler uma matriz A 10x7. Ao final apresentar o total de elementos pares e o 
+total de elementos ímpares existentes dentro da matriz. Apresentar também o 
+percentual de elementos pares e ímpares em relação ao total de elementos 
+da matriz. 
+
+
+13)Desenvolver um algoritmo que efetue a leitura dos nomes de 5 alunos e 
+também de suas duas notas bimestrais (4 notas). Ao final deverá ser 
+apresentado o nome de cada aluno e sua média, classificado em ordem 
+crescente dos nomes.
+
+
+14)Faça um algoritmo que preencha automaticamente uma matriz 6x6 com 
+valores entre 7 e 50 (valores não repetidos). Posteriormente, preencha um 
+vetor (A) com 12 elementos composto das duas diagonais (primeiro a 
+principal e em seguida a inversa). Finalmente, gere um segundo vetor (B) 
+contendo os valores do primeiro vetor (A) em ordem decrescente, 
+apresentando-o no final.
+
+
+15)Uma escola deseja controlar a situação das turmas com relação ao nome dos 
+alunos, notas, médias, controle de frequência e situação do aluno (aprovado 
+ou reprovado). Sabe-se que cada turma possui no máximo 30 alunos, e cada 
+disciplina possui uma carga horária diferenciada. O algoritmo deverá 
+perguntar o nome da disciplina, a quantidade de alunos, a carga horária, os 
+nomes dos alunos, as 2 notas bimestrais, a nota substitutiva e a quantidade 
+de faltas de cada aluno.
+Posteriormente, o sistema deverá calcular a situação de cada aluno e 
+apresentar todos os dados para o usuário, como dados da disciplina e dados 
+dos alunos (nome, notas, média, frequência e situação –
+aprovado/reprovado). No final, pergunte se o usuário deseja informar e 
+calcular dados de uma nova turma, voltando a repetir todo o processo 
+novamente. A média mínima para aprovação é 6,0 e a frequência mínima é 
+de 75%.
