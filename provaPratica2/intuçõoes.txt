@@ -1,0 +1,8 @@
+Construa um algoritmo que solicite uma matriz 3x4 contendo nomes de pessoas. Posteriormente apresente a matriz 
+ao usuário.
+
+Fazer um pit(video) explicando o código, não precisa mostrar o rosto
+postar no youtube como não listados, enviar link onde o prof pedir 
+até dia 26 a entrega, ele falou no ultimo domingo que antecede as provas
+
+A lista mostrou lista 8 exc 8
